@@ -4,8 +4,8 @@
 
 Android library for handling progress actions.
 
-![alt tag](https://raw.https://github.com/Trollologic/ProgressHandler/master/progress_with_message.png)
-![alt tag](https://raw.https://github.com/Trollologic/ProgressHandler/master/progress_without_message.png)
+![alt tag](https://raw.githubusercontent.com/Trollologic/ProgressHandler/4d75fcb261351f83b0ca5eb2b6518f7dba2a27cc/progress_without_message.png)
+![alt tag](https://raw.githubusercontent.com/Trollologic/ProgressHandler/4d75fcb261351f83b0ca5eb2b6518f7dba2a27cc/progress_with_message.png)
 
 
 
