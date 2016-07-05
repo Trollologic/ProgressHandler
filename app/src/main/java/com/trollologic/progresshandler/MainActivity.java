@@ -11,5 +11,6 @@ public class MainActivity extends ProgressAppCompactActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        showProgress("Some progress info message");
     }
 }
