@@ -21,7 +21,7 @@ dependencies {
 
 Usage
 -----
-In your activity you need to extend some of custom Progress-activities(ProgressAppCompactActivity, ProgressFragmentActivity)
+In your activity you need to extend some of custom Progress-activities(ProgressAppCompactActivity org ProgressFragmentActivity)
 ```java
 class ExampleActivity extends ProgressAppCompactActivity {
 
