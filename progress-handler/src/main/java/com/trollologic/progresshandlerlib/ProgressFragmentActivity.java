@@ -31,7 +31,15 @@ public class ProgressFragmentActivity extends FragmentActivity {
      */
     public void hideProgress(){
         if(progress != null){
-            progress.dismiss();
+            progress.dismissAllowingStateLoss();
         }
+    }
+
+    /**
+     * Method for fetching progress dialog
+     * @return ProgressDialogFragment
+     */
+    public ProgressDialogFragment getProgressDialog(){
+        return progress;
     }
 }

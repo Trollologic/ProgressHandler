@@ -31,10 +31,10 @@ bintray {
         name = 'progress-handler'
 
         version {
-            name = '1.0.0'
+            name = '1.0.2'
             desc = 'Lib for handling progress in your activity or fragment'
             released  = new Date()
-            vcsTag = '1.0.0'
+            vcsTag = '1.0.2'
         }
 
         licenses = ['Apache-2.0']
@@ -45,7 +45,7 @@ bintray {
 }
 
 group = 'com.trollologic.progresshandlerlib' // Change this to match your package name
-version = '1.0.0' // Change this to match your version number
+version = '1.0.2' // Change this to match your version number
 
 task generateSourcesJar(type: Jar) {
     from android.sourceSets.main.java.srcDirs
