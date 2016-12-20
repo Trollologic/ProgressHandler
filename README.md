@@ -15,7 +15,7 @@ Add in your app gradle file under dependencies:
 ```
 dependencies {
     ...
-    compile 'com.trollologic.progresshandlerlib:progress-handler:1.0.0'
+    compile 'com.trollologic.progresshandlerlib:progress-handler:1.0.2'
 }
 ```
 
